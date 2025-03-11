@@ -9,26 +9,13 @@ About Me
 ---
 
 Contact
+
 📬 Feel free to reach out to me on LinkedIn (www.linkedin.com/in/evandro-machado-028870262) or via email (evandromachado2006@gmail.com).
 
 ---
 
 Skills
-- Languages: Python, C, and C++
 
- - Databases
-
- - Software Engineering
-
- - Extension research
+- Languages: Python.
 
 ---
-
-Objectives
- - Contribute to innovative projects
-
- - Participate in technological challenges
-
- - Apply and expand my skills and knowledge
-
- - Advance in my career as a developer and, in the future, as an analyst/engineer
