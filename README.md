@@ -6,7 +6,6 @@
 🧠 Active participant in extension research at the university 
 📚 Always seeking to enhance my knowledge with courses and content in the technology field 
 🎯 Committed to contributing to innovative and challenging projects by applying my acquired skills and knowledge
-
 ---
 
 ### 📞 Contact
@@ -16,7 +15,17 @@
 ---
 
 ### 📊 Stats
-
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandro206&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true)
-
----
+<img 
+  align="left"
+  alt="GitHub Stats"
+  heigth="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Evandro206&theme=transparent&locale=pt-br&include_all_commits=true"
+/>
+<img 
+  align="left"
+  alt="GitHub Stats"
+  heigth="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&theme=transparent&locale=pt-br&langs_count=10"
+/>
