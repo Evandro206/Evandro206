@@ -17,8 +17,6 @@
 
 ### 📊 Stats
 
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandro206&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Evandro206&theme=dark&border_radius=4.5)
+![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandro206&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true)
 
 ---
