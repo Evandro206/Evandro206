@@ -18,13 +18,13 @@
 <img 
   align="left"
   alt="GitHub Stats"
-  height="250"
+  height="210"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api?username=Evandro206&theme=transparent&locale=pt-br&include_all_commits=true"
 />
 <img 
   align="left"
   alt="GitHub Stats"
-  height="250"
+  height="210"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&theme=transparent&locale=pt-br&langs_count=10"
 />
