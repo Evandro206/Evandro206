@@ -42,5 +42,5 @@ Estou aberto a novas conexões e oportunidades! Entre em contato comigo:
 
 <div align="center">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Evandro206&theme=transparent&locale=pt-br&include_all_commits=true" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&theme=transparent&locale=pt-br&langs_count=8" />
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&theme=transparent&locale=pt-br&langs_count=10" />
 </div>
