@@ -11,7 +11,7 @@
 
 ### 📞 Contact
 
-📬 Feel free to reach out to me on LinkedIn (www.linkedin.com/in/evandro-machado-028870262) or via email (evandromachado2006@gmail.com).
+📬 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/evandro-machado-028870262) or via [email](evandromachado2006@gmail.com).
 
 ---
 
