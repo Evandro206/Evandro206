@@ -23,9 +23,9 @@ Abaixo estão as tecnologias com as quais tive contato e estou desenvolvendo min
 
 Estou ativamente focado em aprimorar e aprofundar meus conhecimentos nas seguintes áreas:
 
-- **Aprofundamento em Java:** Foco em orientação a objetos e desenvolvimento backend.
+- **Aprofundamento em `Java`:** Foco em orientação a objetos e desenvolvimento backend.
 - **Desenvolvimento Web Full Stack:** Aprimoramento prático com `PHP`, `JavaScript`, `HTML` e `CSS`.
-- **Bancos de Dados:** Início dos estudos em **MySQL**.
+- **Bancos de Dados:** Início dos estudos em `MySQL`.
 
 ---
 
