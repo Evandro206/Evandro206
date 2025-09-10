@@ -41,6 +41,6 @@ Estou aberto a novas conexões e oportunidades! Entre em contato comigo:
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center" style=" display: flex; justify_content: center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Evandro206&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true&langs_count=10" />
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Evandro206&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" />
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true&langs_count=10" />
 </div>
