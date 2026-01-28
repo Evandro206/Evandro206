@@ -36,7 +36,6 @@ Atualmente, estou aprofundando meus estudos em arquitetura de software, microsse
 
 * **Sistema de Fidelidade (Mobile/Microservices):** App desenvolvido com React Native, integrando backend em **Go (Gin)** e **Python (FastAPI)**. Uso de Docker e Cloudinary.
 * **Gestão Logística (Web):** Sistema full cycle para controle de frotas e viagens.
-* **Fábrica de Sistemas:** Backend robusto com **Django** para gestão de reservas e manutenção (Em desenvolvimento).
 
 ---
 
