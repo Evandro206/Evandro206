@@ -45,10 +45,17 @@ Atualmente, estou aprofundando meus estudos em arquitetura de software, microsse
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandromachado2006@gmail.com)
 
 ---
-
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center" style=" display: flex; justify_content: center;">
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Evandro206&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" />
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true&langs_count=10" />
-</div> 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandro206&theme=transparent&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro206&layout=compact&theme=transparent&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true&langs_count=10" />
+      </td>
+    </tr>
+  </table>
+</div>
